@@ -34,10 +34,9 @@ nav {
     border: 1px solid black;
     margin-top: 15px;
     border-radius: 5px;
-    background-color: rgba(240, 16, 124, 0.742);
+    background-color: rgba(141, 67, 215, 0.801);
 
 }
-
 .p-box {
     min-width: 200px;
     max-width: 400px;
