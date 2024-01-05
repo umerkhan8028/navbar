@@ -21,15 +21,15 @@ nav>p {
 }
 
 nav>p:hover {
-    background-color: rgb(232, 8, 42);
+    background-color: rgb(25, 138, 208);
     border-radius: 25px;
     color: white;
 }
 
 nav {
     text-align: center;
-    width: 400px;
-    padding: 8px;
+    width: 402.5px;
+    padding: 5px;
     margin: 0 auto;
     border: 1px solid black;
     margin-top: 15px;
