@@ -27,11 +27,12 @@ nav>p:hover {
 }
 
 nav {
-    max-width: 404px;
-    min-width: 200px;
+    text-align: center;
+    width: 400px;
+    padding: 8px;
     margin: 0 auto;
     border: 1px solid black;
-    margin-top: 5px;
+    margin-top: 15px;
     border-radius: 5px;
     background-color: rgba(240, 16, 124, 0.742);
 
