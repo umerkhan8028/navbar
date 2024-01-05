@@ -1,0 +1,95 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    align-content: center;
+    border: 2px solid black;
+    margin-left: 100px;
+    
+}
+
+nav>p {
+    margin: 0;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+    min-width: 95.4px;
+    max-width: 100px;
+    margin: 3px 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    cursor: pointer;
+}
+
+nav>p:hover {
+    background-color: rgb(232, 8, 42);
+    border-radius: 25px;
+    color: white;
+}
+
+nav {
+    max-width: 404px;
+    min-width: 200px;
+    margin: 0 auto;
+    border: 1px solid black;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: rgba(240, 16, 124, 0.742);
+
+}
+
+.p-box {
+    min-width: 200px;
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 3px;
+    min-height: 100px;
+    max-height: 200px;
+    overflow-y: scroll;
+}
+.p-box:hover{
+    color: white;
+}
+
+.box1 {
+    border: 1px solid black;
+    min-width: 100px;
+    max-width: 250px;
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+
+.box2 {
+    border: 1px solid black;
+    min-width: 100px;
+    max-width: 250px;
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+.box1:hover{
+    background-color: rgb(100, 217, 227);
+}
+.box2:hover{
+    background-color: crimson;
+}
+.box3:hover{
+    background-color: rgb(233, 4, 4);
+}
+
+.box3 {
+    border: 1px solid black;
+    min-width: 100px;
+    max-width: 250px;
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+input{
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
